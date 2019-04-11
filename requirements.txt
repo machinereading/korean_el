@@ -1,0 +1,7 @@
+konlpy
+gensim
+JPype1
+numpy
+PyMySQL
+torch==0.4.1
+torchvision
